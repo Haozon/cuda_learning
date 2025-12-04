@@ -1,3 +1,7 @@
-250421 pull下来进行学习： [CUDA-Learn_Notes](https://github.com/xlite-dev/CUDA-Learn-Notes)
+1. LeetCUDA
+[LeetCUA](https://github.com/xlite-dev/LeetCUDA/tree/main)
+有的代码非常有意思，学习这里面的代码，并且自己会做一些注释。具体在 [这里](./LeetCUDA-Imitation/)
 
-为了能够动手写代码, 我创建了 CUDA-Learn-Notes-Imitation 文件夹,用于自己实现一遍。并且添加了自己需要理解的注释。
+2. CUDA_Sample
+有一些常见的手撕代码需要熟练掌握，具体参考 [CUDA_Sample](https://github.com/Tongkaio/CUDA_Kernel_Samples)，
+
